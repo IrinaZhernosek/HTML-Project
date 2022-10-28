@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang = "en-US">
+<head> 
+<title>Next Page</title>
+</head>
+<body>
+<p> My new Pdage </p>
+<p style = "text-align:center"><img src="./agnes.jpg" alt="Agnes" width= "1000" height = "1150" ></p>
+</body>
+</html>
